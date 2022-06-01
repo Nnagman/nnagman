@@ -15,7 +15,7 @@
 
 ### 💼 Experience
 - **페르소나** - Software Developer *(November 2019 ~ April 2021)*
-- **프로그래머스 백엔드 데브코스** *(Jun 2021 ~ Nov 2021)*
+- **프로그래머스 백엔드 데브코스** *(March 2022 ~ PRESENT)*
 
 ### 📄 Blog
 [![Velog](https://img.shields.io/badge/velog-blog-lightgrey)](https://velog.io/@nnagman)
