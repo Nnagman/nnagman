@@ -14,8 +14,8 @@
 - 주 언어는 **Java** 입니다.
 
 ### 💼 Experience
-- **페르소나** - Software Developer *(November 2019 ~ April 2021)*
 - **프로그래머스 백엔드 데브코스** *(March 2022 ~ PRESENT)*
+- **페르소나** - Software Developer *(November 2019 ~ April 2021)*
 
 ### 📄 Blog
 [![Velog](https://img.shields.io/badge/velog-blog-lightgrey)](https://velog.io/@nnagman)
