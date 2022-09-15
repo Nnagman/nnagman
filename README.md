@@ -1,4 +1,4 @@
-[![Resume](https://img.shields.io/badge/Resume-Github-orange?style=flat-square)](https://github.com/Nnagman/Portfolio-Resume)
+[![Resume](https://img.shields.io/badge/Resume-orange?style=flat-square)](https://glimmer-chair-089.notion.site/df337728b6f4493781017fe78c3fff2c)
 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
