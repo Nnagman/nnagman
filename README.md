@@ -1,8 +1,5 @@
 [![Resume](https://img.shields.io/badge/Resume-orange?style=flat-square)](https://glimmer-chair-089.notion.site/df337728b6f4493781017fe78c3fff2c)
 
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nnagman&show_icons=true)<br/>
 <a href="https://opgc.me/#/users/nnagman" target="_blank"><img src="https://api.opgc.me/githubs/users/nnagman/tag/?theme=basic" /></a>
 
