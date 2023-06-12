@@ -1,6 +1,6 @@
 [![Resume](https://img.shields.io/badge/Resume-orange?style=flat-square)](https://glimmer-chair-089.notion.site/df337728b6f4493781017fe78c3fff2c)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nnagman&show_icons=true)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nnagman&show_icons=true)<sbr/>
 <a href="https://opgc.me/#/users/nnagman" target="_blank"><img src="https://api.opgc.me/githubs/users/nnagman/tag/?theme=basic" /></a>
 
 ---
@@ -16,4 +16,4 @@
 ### 📄 Blog
 [![Velog](https://img.shields.io/badge/velog-blog-lightgrey)](https://velog.io/@nnagman)
 [![Naver](https://img.shields.io/badge/naver-blog-green)](https://blog.naver.com/ckdgh930314)
-[Notion](https://glimmer-chair-089.notion.site/dd76525705554de88ced9abca739d9b5?pvs=4)
+[![Notion](https://img.shields.io/badge/notion-resume-grey)](https://glimmer-chair-089.notion.site/dd76525705554de88ced9abca739d9b5?pvs=4)
