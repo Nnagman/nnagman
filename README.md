@@ -16,4 +16,4 @@
 ### 📄 Blog
 [![Velog](https://img.shields.io/badge/velog-blog-lightgrey)](https://velog.io/@nnagman)
 [![Naver](https://img.shields.io/badge/naver-blog-green)](https://blog.naver.com/ckdgh930314)
-[![Notion](https://img.shields.io/badge/notion-resume-grey)](https://glimmer-chair-089.notion.site/dd76525705554de88ced9abca739d9b5?pvs=4)
+[![Notion](https://img.shields.io/badge/notion-resume-blue)](https://glimmer-chair-089.notion.site/dd76525705554de88ced9abca739d9b5?pvs=4)
