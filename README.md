@@ -1,7 +1,6 @@
 [![Resume](https://img.shields.io/badge/Resume-orange?style=flat-square)](https://glimmer-chair-089.notion.site/df337728b6f4493781017fe78c3fff2c)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nnagman&show_icons=true)<sbr/>
-<a href="https://opgc.me/#/users/nnagman" target="_blank"><img src="https://api.opgc.me/githubs/users/nnagman/tag/?theme=basic" /></a>
 
 ---
 
