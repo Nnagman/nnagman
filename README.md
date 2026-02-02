@@ -1,13 +1,8 @@
-[![Resume](https://img.shields.io/badge/Resume-orange?style=flat-square)](https://glimmer-chair-089.notion.site/df337728b6f4493781017fe78c3fff2c)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nnagman&show_icons=true)<sbr/>
-
----
-
 ### 💁🏻‍♂️ Brief
 - 안녕하세요! 개발자 이창호입니다.
 
 ### 💼 Experience
+- **에스덕** - *(2025.06 ~ 2025.12.31)*
 - **미어제터** - *(2023.07 ~ 2025.05.31)*
 - **프로그래머스 데브코스 : 클라우드 기반 백엔드 엔지니어링 (2기)** *(2022.03 ~ 2022.08)*
 - **페르소나** - *(2019.11 ~ 2021.04)*
